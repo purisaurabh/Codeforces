@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#441F44",
+        "titleBar.activeBackground": "#602C5F",
+        "titleBar.activeForeground": "#FCF9FC"
+    },
+    "files.associations": {
+        "ostream": "cpp"
+    }
+}
